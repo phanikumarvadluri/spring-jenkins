@@ -20,5 +20,7 @@ public class SpringJenkinsApplication {
 	public void init() {
 		logger.info("****************Application started***********************");
 		logger.info("****************Application started checking build for next commit***********************");
+		logger.info("****************Application started checking build for next commit7777***********************");
+
 	}
 }
